@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/1st-year-important-questions/static/css/main.67ed04df.css",
+    "main.js": "/1st-year-important-questions/static/js/main.5f2f85fa.js",
+    "static/js/787.0311fdc9.chunk.js": "/1st-year-important-questions/static/js/787.0311fdc9.chunk.js",
+    "static/media/kamran.jpg": "/1st-year-important-questions/static/media/kamran.a39251d3499601a341e4.jpg",
+    "index.html": "/1st-year-important-questions/index.html",
+    "main.67ed04df.css.map": "/1st-year-important-questions/static/css/main.67ed04df.css.map",
+    "main.5f2f85fa.js.map": "/1st-year-important-questions/static/js/main.5f2f85fa.js.map",
+    "787.0311fdc9.chunk.js.map": "/1st-year-important-questions/static/js/787.0311fdc9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.67ed04df.css",
+    "static/js/main.5f2f85fa.js"
+  ]
+}
